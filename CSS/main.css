@@ -6,10 +6,9 @@
 	top: 0;
 	left: 0;
 	background-image: url("../Images/All/IMG_0757.jpg");
-	/*background-color: rgb(32,157,240);*/
 	background-size: cover;
 	background-position: center center;
-	/*opacity: 0.7;*/
+	opacity: 0.7;
 }
 
 #header {
