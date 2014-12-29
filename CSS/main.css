@@ -14,6 +14,8 @@
 
 #header {
 	text-align: center;
+    /*color: #5d5d5d;*/
+    font: 40px/1 Lobster,Arial,sans-serif;
 }
 
 .left_column {
