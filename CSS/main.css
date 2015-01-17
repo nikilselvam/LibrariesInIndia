@@ -16,6 +16,7 @@
 	text-align: center;
     /*color: #5d5d5d;*/
     font: 40px/1 Lobster,Arial,sans-serif;
+    margin: 0 0 10px 0;
 }
 
 .left_column {
@@ -49,6 +50,10 @@
 	background-image: url("../Images/All/IMG_0743.jpg");
 	background-size: cover;
 	background-position: center center;
+}
+
+.scrollable {
+    background-color: white;
 }
 
 
